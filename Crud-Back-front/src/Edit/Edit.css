@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main {
+    width: 50%;
+    margin: auto;
+    background-color: #00a5ff7d;
+    padding: 22px;
+    border-radius: 10px;
+    height: 80vh;
+}
+
+form {
+    width: 56%;
+    margin: auto;
+    background: #fbff77c7;
+    padding: 18px;
+    border-radius: 26px;
+}
+.btn.post-button {
+    
+    margin: 10px 0 0 0;
+    width: 96%;
+}
+input {
+    border: none;
+    border-radius: 10px;
+    padding: 10px 0px 10px 10px;
+}
